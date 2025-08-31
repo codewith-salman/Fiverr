@@ -3,9 +3,9 @@
 <br />
 <div align="center">
   <h1>💼 Fiver - Landing Page</h1>
-  <p>A clean and modern Fiverr-inspired landing page built with HTML, CSS, and JavaScript.</p>
+  <p>A clean and modern Fiverr-inspired landing page built with HTML, CSS.</p>
   
-  <img src="Fiver%20Marketplace/images/ss.pnh" alt="Fiver Landing Page Screenshot" width="100%"/>
+  <img src="Fiverr%20Marketplace/images/ss.pnh" alt="Fiver Landing Page Screenshot" width="100%"/>
 </div>
 
 ---
